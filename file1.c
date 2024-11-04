@@ -6,5 +6,5 @@ return 0;
 }
 hi
 today
-is monday
+is holiday
 
